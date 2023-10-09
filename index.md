@@ -6,12 +6,13 @@ layout: default
 
 <img class="profile-picture" src="Ian.jpg">
 
-Hello! My name is Ian, and I am a Computer Science and Mathematics major in my Sophomore year at
-Virginia Tech!
+Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!
 
-## Research Interest
+## Education Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+**College** - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics
+> - GPA: 3.56
+> - Dean's List: Every semester
 
 ## Publications
 
