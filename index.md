@@ -12,13 +12,19 @@ layout: default
 <h1 style="font-family: Arial; font-weight: bold;">Education Information</h1>
 
 <span style="font-family: Arial"><b>College</b> - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics</span>
-- GPA: 3.56
-- Dean's List: Every semester
+<ul>
+    <li>GPA: 3.56</li>
+    <li>Dean's List: Every semester</li>
+</ul>
 
-**High School** - Deep Run High School | Class of 2022 | Advanced Diploma
-- GPA: 4.45
-- 7 honors courses | 5 AP courses
+<span style="font-family: Arial"><b>High School</b> - Deep Run High School | Class of 2022 | Advanced Diploma</span>
+<ul>
+    <li>GPA: 4.45</li>
+    <li>7 honors courses | 5 AP courses</li>
+</ul>
 
 <h1 style="font-family: Arial; font-weight: bold;">Links</h1>
-* [GitHub](https://github.com/Red-Lattice)
-* [LinkedIn](https://www.linkedin.com/in/dewittdoucette/)
+<ul>
+    <li><a href="https://github.com/Red-Lattice">Github</a></li>
+    <li><a href="https://www.linkedin.com/in/dewittdoucette/">LinkedIn</a></li>
+</ul>
