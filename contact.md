@@ -12,8 +12,10 @@ is_contact: true
 
 ## Mailing Address
 
-> 3327 West Grace St.
->
-> Richmond, VA
->
-> United States
+<blockquote style="font-family: Arial">
+    <p>3327 West Grace St.</p>
+
+    <p>Richmond, VA</p>
+
+    <p>United States</p>
+</blockquote>

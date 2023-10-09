@@ -1,6 +1,6 @@
 title: Dewitt Ian Doucette
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://red-lattice.github.io"
+baseurl: "/ddoucette.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -12,8 +12,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
  - name: "Resume"
    link: "MyResume.pdf"
  - name: "Contact"
