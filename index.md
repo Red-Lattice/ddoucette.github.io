@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+<span style="font-family: Arial"><h1>About Me</h1></span>
 
 <img class="profile-picture" src="Ian.jpg">
 
@@ -11,20 +11,13 @@ layout: default
 ---
 ## Education Information
 
-**College** - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics
+<span style="font-family: Arial"><b>College</b> - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics</span>
 - GPA: 3.56
 - Dean's List: Every semester
 
 **High School** - Deep Run High School | Class of 2022 | Advanced Diploma
 - GPA: 4.45
 - 7 honors courses | 5 AP courses
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
 
 ## Links
 * [GitHub](https://github.com/Red-Lattice)
