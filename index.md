@@ -12,7 +12,7 @@ layout: default
 <h1 style="font-family: Arial; font-weight: bold;">Education Information</h1>
 
 <span style="font-family: Arial"><b>College</b> - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics</span>
-<ul>
+<ul style="font-family: Arial">
     <li>GPA: 3.56</li>
     <li>Dean's List: Every semester</li>
 </ul>
@@ -24,7 +24,7 @@ layout: default
 </ul>
 
 <h1 style="font-family: Arial; font-weight: bold;">Links</h1>
-<ul>
+<ul style="font-family: Arial">
     <li><a href="https://github.com/Red-Lattice">Github</a></li>
     <li><a href="https://www.linkedin.com/in/dewittdoucette/">LinkedIn</a></li>
 </ul>
