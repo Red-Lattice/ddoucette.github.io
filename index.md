@@ -18,7 +18,7 @@ layout: default
 </ul>
 
 <span style="font-family: Arial"><b>High School</b> - Deep Run High School | Class of 2022 | Advanced Diploma</span>
-<ul>
+<ul style="font-family: Arial">
     <li>GPA: 4.45</li>
     <li>7 honors courses | 5 AP courses</li>
 </ul>
