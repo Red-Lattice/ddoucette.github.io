@@ -12,7 +12,7 @@ is_contact: true
 
 ## Mailing Address
 
-<blockquote style="font-family: Arial">
+<blockquote>
     <p>3327 West Grace St.</p>
 
     <p>Richmond, VA</p>

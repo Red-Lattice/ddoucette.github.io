@@ -2,29 +2,29 @@
 layout: default
 ---
 
-<h1 style="font-family: Arial; font-weight: bold;">About Me</h1>
+<h1 style="font-weight: bold;">About Me</h1>
 
 <img class="profile-picture" src="Ian.jpg">
 
-<span style="font-family: Arial">Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!</span>
+<span>Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!</span>
 
 ---
-<h1 style="font-family: Arial; font-weight: bold;">Education Information</h1>
+<h1 style="font-weight: bold;">Education Information</h1>
 
-<span style="font-family: Arial"><b>College</b> - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics</span>
-<ul style="font-family: Arial">
+<span><b>College</b> - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics</span>
+<ul>
     <li>GPA: 3.56</li>
     <li>Dean's List: Every semester</li>
 </ul>
 
-<span style="font-family: Arial"><b>High School</b> - Deep Run High School | Class of 2022 | Advanced Diploma</span>
-<ul style="font-family: Arial">
+<span><b>High School</b> - Deep Run High School | Class of 2022 | Advanced Diploma</span>
+<ul>
     <li>GPA: 4.45</li>
     <li>7 honors courses | 5 AP courses</li>
 </ul>
 
-<h1 style="font-family: Arial; font-weight: bold;">Links</h1>
-<ul style="font-family: Arial">
+<h1 style="font-weight: bold">Links</h1>
+<ul>
     <li><a href="https://github.com/Red-Lattice">Github</a></li>
     <li><a href="https://www.linkedin.com/in/dewittdoucette/">LinkedIn</a></li>
 </ul>
