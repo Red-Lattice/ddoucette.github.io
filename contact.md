@@ -3,24 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email (personal): [dewittdoucette@gmail.com](mailto:dewittdoucette@gmail.com)
+* Email (school): [dewittdoucette@vt.edu](mailto:dewittdoucette@vt.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [(907)-903-9038](tel:(907)-903-9038)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 3327 West Grace St.
 >
-> London
+> Richmond, VA
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> United States

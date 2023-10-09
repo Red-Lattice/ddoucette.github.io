@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="Ian.jpg">
 
-Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!
+<span style="font-family: Arial">Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!</span>
+
 ---
 ## Education Information
 
