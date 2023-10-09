@@ -3,7 +3,7 @@ url: "https://red-lattice.github.io"
 baseurl: "/ddoucette.github.io"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./Virginia_Tech_seal.png"
 
 tracking_id: #
 

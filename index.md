@@ -11,15 +11,15 @@ layout: default
 ---
 <h1 style="font-weight: bold;">Education Information</h1>
 
-<span><b>College</b> - Virginia Tech | Sophomore, class of 2026 | BS of Science in Computer Science and Mathematics</span>
+<span><b>College</b> - Virginia Tech | Sophomore, class of 2026 | Bachelor of Science in Computer Science and Mathematics</span>
 <ul>
-    <li>GPA: 3.56</li>
-    <li>Dean's List: Every semester</li>
+    <li><b>GPA:</b> 3.56</li>
+    <li><b>Dean's List:</b> Every semester</li>
 </ul>
 
 <span><b>High School</b> - Deep Run High School | Class of 2022 | Advanced Diploma</span>
 <ul>
-    <li>GPA: 4.45</li>
+    <li><b>GPA:</b> 4.45</li>
     <li>7 honors courses | 5 AP courses</li>
 </ul>
 
