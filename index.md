@@ -1,14 +1,10 @@
----
-layout: default
----
-
 <h1 style="font-weight: bold;">About Me</h1>
 
 <img class="profile-picture" src="Ian.jpg">
 
 <span>Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!</span>
 
----
+<hr>
 <h1 style="font-weight: bold;">Education Information</h1>
 
 <span><b>College</b> - Virginia Tech | Sophomore, class of 2026 | Bachelor of Science in Computer Science and Mathematics</span>
