@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<body style="background-color:#404040">
 <h1 style="font-weight: bold; color=#FFFFFF">About Me</h1>
 
 <img class="profile-picture" src="Ian.jpg">
