@@ -23,8 +23,10 @@ layout: default
 </ul>
 
 <h1 style="font-weight: bold">Projects</h1>
-<span><b>Game Development Project at Virginia Tech: Semester Long Project Winner</b></span>
-<span>Successfully developed a 3D video game. Placed first! Utilized the following:</span>
+<h2><b>Game Development Project at Virginia Tech: Semester Long Project Winner</b></h2>
+<span>
+Successfully developed a 3D video game. Placed first! Utilized the following:
+</span>
 <ul>
     <li>Unity 3D</li>
     <li>C# / .NET</li>
@@ -32,24 +34,24 @@ layout: default
     <li>Audacity</li>
     <li>Visual Studio Code</li>
 </ul>
-<span><b>Cloud Server Hosting<b></span>
+<h2><b>Cloud Server Hosting</b></h2>
 <ul>
     <li>Hosted a minecraft server</li>
     <li>Utilized Linux on an AWS hosted private server</li>
 </ul>
-<span><b>Year long video game development project (ongoing)</b></span>
+<h2><b>Year long video game development project (ongoing)</b></h2>
 <ul>
     <li>Working on a team with 5 other people to develop a video game</li>
     <li>Handling programming and 3D modelling</li>
     <li>Handling version control with Git</li>
 </ul>
-<span><b>Tower of Hanoi CS project</b></span>
+<h2><b>Tower of Hanoi CS project</b></h2>
 <ul>
     <li>Developed the Tower of Hanoi puzzle and an algorithm that solves it</li>
     <li>Submitted as a project for computer science class</li>
     <li>Built in Eclipse using Java</li>
 </ul>
-<span><b>This website!</b></span>
+<h2><b>This website!</b></h2>
 <ul>
     <li>Written using HTML and Jekyll</li>
     <li>Hosted on Github Pages</li>
