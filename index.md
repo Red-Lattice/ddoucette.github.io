@@ -21,7 +21,7 @@ layout: default
     <li><b>GPA:</b> 4.45</li>
     <li>7 honors courses | 5 AP courses</li>
 </ul>
-
+<hr>
 <h1 style="font-weight: bold">Projects</h1>
 <h2><b>Game Development Project at Virginia Tech: Semester Long Project Winner</b></h2>
 <span>
@@ -56,7 +56,7 @@ Successfully developed a 3D video game. Placed first! Utilized the following:
     <li>Written using HTML and Jekyll</li>
     <li>Hosted on Github Pages</li>
 </ul>
-
+<hr>
 <h1 style="font-weight: bold">Links</h1>
 <ul>
     <li><a href="https://github.com/Red-Lattice">Github</a></li>
