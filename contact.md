@@ -19,3 +19,9 @@ is_contact: true
 
     <p>United States</p>
 </blockquote>
+
+## Other platforms you can find me on
+<ul>
+    <li><a href="https://github.com/Red-Lattice">Github</a></li>
+    <li><a href="https://www.linkedin.com/in/dewittdoucette/">LinkedIn</a></li>
+</ul>

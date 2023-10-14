@@ -55,7 +55,7 @@ layout: default
 <span>No team can succeed while being unwelcoming! I believe a core component of any strong team is being able to recieve ideas and feedback from anyone!</span>
 
 <h3>Adaptability</h3>
-<span>Nothing is too new, unique, or different for me! I am a fast learner and can pickup anything I put my mind to!</span>
+<span>Nothing is too new, unique, or different for me! I am a fast learner and can pick up anything I put my mind to!</span>
 
 <hr>
 <h1 style="font-weight: bold">What skills am I currently trying to develop?</h1>
