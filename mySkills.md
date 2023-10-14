@@ -14,6 +14,9 @@ layout: default
 <h3>HTML</h3>
 <span>I've gained a lot of experience in HTML using it primarily for this website project of mine, as well as some past schoolwork in high school</span>
 
+<h3>Python</h3>
+<span>This is the first programming language I ever learned, so needless to say I have a lot of exposure to it! I can always pick it up really quickly and get to work</span>
+
 <h3>Git/Github</h3>
 <span>I use github for all of my version control management for my various projects. I do it all through command line as well!</span>
 
@@ -53,3 +56,16 @@ layout: default
 
 <h3>Adaptability</h3>
 <span>Nothing is too new, unique, or different for me! I am a fast learner and can pickup anything I put my mind to!</span>
+
+<hr>
+<h1 style="font-weight: bold">What skills am I currently trying to develop?</h1>
+<span>Of course, I can't just be content with the skills I already have. In addition to refining the skills above, I am also learning some new ones!</span>
+<hr>
+
+<h3>Rust</h3>
+<span>I am currently learning Rust to get a better understanding of lower-level languages!</span>
+
+<h3>Javascript/Typescript</h3>
+<span>I need some sort of language to handle front end development, so what better place to start than these classics of web development!</span>
+
+<hr>
