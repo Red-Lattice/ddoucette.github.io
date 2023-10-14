@@ -16,3 +16,5 @@ nav:
    link: "MyResume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "My skills"
+   link: "mySkills"
