@@ -1,6 +1,6 @@
 title: Dewitt Ian Doucette
 url: "https://red-lattice.github.io"
-baseurl: "/ddoucette.github.io"
+baseurl: ""
 
 markdown: kramdown
 ins_logo: "./Virginia_Tech_seal.png"
