@@ -51,6 +51,13 @@ Successfully developed a 3D video game. Placed first! Utilized the following:
     <li>Submitted as a project for computer science class</li>
     <li>Built in Eclipse using Java</li>
 </ul>
+<h2><b>Rust math projects</b></h2>
+<ul>
+    <li>Written two math related projects in rust for tackling difficult problems</li>
+    <li>More information found on their respective github repos (the details are math heavy)</li>
+    <li><a href="https://github.com/Red-Lattice/ArbitraryMathCalculator">Arbitrary math calculator</a></li>
+    <li><a href="https://github.com/Red-Lattice/IntegerRingLatticeCalculator">Integer ring lattice calculator</a></li>
+</ul>
 <h2><b>This website!</b></h2>
 <ul>
     <li>Written using HTML and Jekyll</li>
