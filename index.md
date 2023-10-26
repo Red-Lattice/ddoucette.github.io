@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="Ian.jpg">
 
-<span>Hello! My name is Ian, and I am a Computer Science and Mathematics double major in my Sophomore year at Virginia Tech!</span>
+<span>Hello! I am a current Sophomore Computer Science and Mathematics at Virginia Tech. I am passionate about application development, and information security!</span>
 
 <hr>
 <h1 style="font-weight: bold">Education Information</h1>
@@ -25,7 +25,7 @@ layout: default
 <h1 style="font-weight: bold">Projects</h1>
 <h2><b>Game Development Project at Virginia Tech: Semester Long Project Winner</b></h2>
 <span>
-Successfully developed a 3D video game. Placed first! Utilized the following:
+Successfully developed a first-person 3D video game, bagging a first place award in a full semester contest with fellow VT computer science peers. Utilized the following:
 </span>
 <ul>
     <li>Unity 3D</li>
