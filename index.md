@@ -45,12 +45,6 @@ Successfully developed a first-person 3D video game, bagging a first place award
     <li>Handling programming and 3D modelling</li>
     <li>Handling version control with Git</li>
 </ul>
-<h2><b>Tower of Hanoi CS project</b></h2>
-<ul>
-    <li>Developed the Tower of Hanoi puzzle and an algorithm that solves it</li>
-    <li>Submitted as a project for computer science class</li>
-    <li>Built in Eclipse using Java</li>
-</ul>
 <h2><b>Rust math projects</b></h2>
 <ul>
     <li>Written two math related projects in rust for tackling difficult problems</li>

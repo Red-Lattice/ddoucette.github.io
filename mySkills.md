@@ -32,6 +32,9 @@ layout: default
 <h3>Microsoft Office 365 Products</h3>
 <span>This includes Word, Excel, and Powerpoint. I even got certified at one point! (Although that's expired now, my skill with the software sure hasn't!)</span>
 
+<h3>Rust</h3>
+<span>I've done several personal projects in Rust, and it has quickly become one of my favorite languages!</span>
+
 <hr>
 <h1 style="font-weight: bold">Soft Skills</h1>
 <hr>
@@ -62,8 +65,8 @@ layout: default
 <span>Of course, I can't just be content with the skills I already have. In addition to refining the skills above, I am also learning some new ones!</span>
 <hr>
 
-<h3>Rust</h3>
-<span>I am currently learning Rust to get a better understanding of lower-level languages!</span>
+<h3>C</h3>
+<span>I have been making an effort to improve my knowledge of C! As the foundation of so many other languages I feel it's a very important one to learn.</span>
 
 <h3>Javascript/Typescript</h3>
 <span>I need some sort of language to handle front end development, so what better place to start than these classics of web development!</span>
