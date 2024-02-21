@@ -10,16 +10,6 @@ is_contact: true
 
 ---
 
-## Mailing Address
-
-<blockquote>
-    <p>3327 West Grace St.</p>
-
-    <p>Richmond, VA</p>
-
-    <p>United States</p>
-</blockquote>
-
 ## Other platforms you can find me on
 <ul>
     <li><a href="https://github.com/Red-Lattice">Github</a></li>
